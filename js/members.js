@@ -24,7 +24,7 @@ const MEMBERS = [
   {
     name: "김형준",
     role: "Member",
-    bio: "한 줄 소개를 여기에 적어주세요.",
+    bio: "조선대학교",
     photo: "",
     emoji: "🥷",
     links: [],
