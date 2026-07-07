@@ -6,7 +6,7 @@
   grid.innerHTML = MEMBERS.map((m) => {
     const avatar = m.photo
       ? `<img class="member-avatar" src="${m.photo}" alt="${m.name}" />`
-      : `<div class="member-avatar">${m.name.charAt(0)}</div>`;
+      : `<div class="member-avatar">${m.emoji || m.name.charAt(0)}</div>`;
 
     const links = (m.links || [])
       .map((l) => `<a href="${l.url}" target="_blank" rel="noopener">${l.label}</a>`)
