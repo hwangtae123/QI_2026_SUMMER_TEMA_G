@@ -35,9 +35,11 @@ const MEMBERS = [
   },
   {
     name: "이승채",
-    role: "Member",
-    bio: "한 줄 소개를 여기에 적어주세요.",
+    role: "팀원들의 기강과 단합력을 강조",
+    bio: "문제 해결을 좋아하는 개발자입니다.",
     photo: "",
-    links: [],
+    links: [
+      { label: "GitHub", url: "https://github.com/seungchae116-jpg" },
+    ],
   },
 ];
