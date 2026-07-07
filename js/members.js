@@ -7,7 +7,7 @@ const MEMBERS = [
     role: "Team Lead",          // 역할 (자유롭게 수정)
     bio: "한 줄 소개를 여기에 적어주세요.",
     photo: "",                    // "assets/taeyeon.jpg"
-    emoji: "👨",
+    emoji: "🤴",
     links: [
       // { label: "GitHub", url: "https://github.com/..." },
       // { label: "Email", url: "mailto:..." },
@@ -18,7 +18,7 @@ const MEMBERS = [
     role: "Member",
     bio: "한 줄 소개를 여기에 적어주세요.",
     photo: "",
-    emoji: "👩",
+    emoji: "🧚",
     links: [],
   },
   {
@@ -26,7 +26,7 @@ const MEMBERS = [
     role: "Member",
     bio: "한 줄 소개를 여기에 적어주세요.",
     photo: "",
-    emoji: "👨",
+    emoji: "🥷",
     links: [],
   },
   {
@@ -34,7 +34,7 @@ const MEMBERS = [
     role: "Member",
     bio: "한 줄 소개를 여기에 적어주세요.",
     photo: "",
-    emoji: "👨",
+    emoji: "🧙",
     links: [],
   },
   {
@@ -42,7 +42,7 @@ const MEMBERS = [
     role: "Member",
     bio: "한 줄 소개를 여기에 적어주세요.",
     photo: "",
-    emoji: "👨",
+    emoji: "🤠",
     links: [],
   },
 ];
